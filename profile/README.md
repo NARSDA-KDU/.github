@@ -15,16 +15,14 @@ Our mission is to cultivate a community of passionate space enthusiasts at Kolad
 
 ## Contact 
 
-[![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/d7067aad-669a-44da-9fc1-a431e7797020)
+- [![instagram](https://github.com/NARSDA-KDU/.github/assets/127853216/d7067aad-669a-44da-9fc1-a431e7797020)
 ](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
-[![icons8-email-30 (2)](https://github.com/NARSDA-KDU/.github/assets/127853216/3563f6f3-a2f6-410a-9a07-0c48bc4749bf)](kdunasrda@gmail.com)
-[![icons8-x-30](https://github.com/NARSDA-KDU/.github/assets/127853216/fd36aec9-bfc8-4117-bd44-a35c4dad695a)](https://twitter.com/kdunasrda?t=Ajb5N0o7K-ngAJcHRXjjgg&s=09)
+- [![email](https://github.com/NARSDA-KDU/.github/assets/127853216/3563f6f3-a2f6-410a-9a07-0c48bc4749bf)](kdunasrda@gmail.com)
+- [![x](https://github.com/NARSDA-KDU/.github/assets/127853216/fd36aec9-bfc8-4117-bd44-a35c4dad695a)](https://twitter.com/kdunasrda?t=Ajb5N0o7K-ngAJcHRXjjgg&s=09)
 
 
-## Project 
+## Projects 
 *coming soon*
-
-
 
 ## Contribution guidelines
 *coming soon*
