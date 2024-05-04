@@ -7,12 +7,8 @@ Join us as we navigate the wonders of the universe with curiosity and humility, 
 ## Project 
 
 ## Contact 
-[![instagram]([![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/5d8d446d-7999-4017-88e2-a220ac9e30c1](https://icons8.com/icon/32309/instagram)))](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
-[![email](https://icons8.com/icon/60688/email)](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
-[![X]([https://icons8.com/icon/60688/email](https://icons8.com/icon/111057/x))](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
 
-
-![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/344b8dd1-9158-4f30-91ee-8eef62dd7bec)
+![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/344b8dd1-9158-4f30-91ee-8eef62dd7bec)(https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
 
 
 
