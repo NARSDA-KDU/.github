@@ -12,7 +12,7 @@ Join us as we navigate the wonders of the universe with curiosity and humility, 
 [![X]([https://icons8.com/icon/60688/email](https://icons8.com/icon/111057/x))](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
 
 
-
+https://icons8.com/icon/111057/x
 
 
 
