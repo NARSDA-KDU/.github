@@ -8,7 +8,8 @@ Join us as we navigate the wonders of the universe with curiosity and humility, 
 
 ## Contact 
 
-![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/344b8dd1-9158-4f30-91ee-8eef62dd7bec)](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
+[![icons8-instagram-30](https://github.com/NARSDA-KDU/.github/assets/127853216/344b8dd1-9158-4f30-91ee-8eef62dd7bec)](https://www.instagram.com/kdu_nasrda?igsh=N3pyeDFiccnRpZWpl)
+
 
 
 
