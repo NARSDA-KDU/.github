@@ -9,7 +9,6 @@ Join us as we navigate the wonders of the universe with curiosity and humility, 
 
 To inspire and propel the exploration of space through innovation, education, and collaboration, becoming a beacon of excellence in advancing humanity's understanding of the cosmos.
 
-Mission Statement:
 
 ### Mission 
 Our mission is to cultivate a community of passionate space enthusiasts at Koladaisi University, dedicated to advancing space exploration through research, hardware development, and engaging discussions on cutting-edge space topics. By fostering curiosity, creativity, and teamwork, we aim to contribute to the broader scientific community while inspiring future generations to reach for the stars.
@@ -22,7 +21,8 @@ Our mission is to cultivate a community of passionate space enthusiasts at Kolad
 [![icons8-x-30](https://github.com/NARSDA-KDU/.github/assets/127853216/fd36aec9-bfc8-4117-bd44-a35c4dad695a)](https://twitter.com/kdunasrda?t=Ajb5N0o7K-ngAJcHRXjjgg&s=09)
 
 
-
+## Project 
+*coming soon*
 
 
 
